@@ -1,0 +1,7 @@
+navbar btn color:    #1baba2
+1st card color:      #245cb6		#208d84
+2nd card:		#4ca4b0		#208d84
+3rd			#794487		#181a42
+4th			#f79f9c		#18232f
+5th			#f6c328    #581aa1
+6th			#f79f9c    #a11343
